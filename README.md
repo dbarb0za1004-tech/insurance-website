@@ -12,11 +12,10 @@
       <nav class="navbar">
         <div class="logo">Protect Your Future</div>
         <ul class="nav-links">
-          <li><a href="#home">Home</a>></li>
+          <li><a href="#home">Home</a></li>
           <li><a href="#life">Life Insurance</a></li>
-          <li><a href="#Mortgage">Mortgage Protection</a></li>
-          <li><a href="#expense">Final Expense</a></li>
-          <li><a href="#Contact">Contact</a></li>
+          <li><a href="#mortgage">Mortgage Protection</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
     </header>
